@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import {PdfTextSelector} from 'react-pdf-text-selector';
+import PdfTextSelector from "./PdfTextSelector";
 
 const Example = () => {
   const pdfUrl ="/invoicesample.pdf";
